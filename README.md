@@ -3,5 +3,5 @@ This is a simple back-end built using node.js to perform necessary connections b
 
 Add/ Edit and View papers details and questions in papers are the main functionalities here.
 
-Copy your firebase api details to the questionapp.json file.
+Copy your firebase api details to the questionapp-42922.json.json file.
 To run this node.js server clone this repository and run "firebase serve" in cmd.
